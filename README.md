@@ -28,4 +28,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=khawajaazfar2000&show_icons=true&locale=en&theme=dark" width="45%" alt="khawajaazfar2000" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khawajaazfar2000&theme=dark" width="45%" alt="khawajaazfar2000" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawajaazfar2000&theme=dark&include_all_commits=false&count_private=false&layout width="45%" height="30%" alt="khawajaazfar2000" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawajaazfar2000&theme=dark&include_all_commits=false&count_private=false&layout=compact"40%" alt="khawajaazfar2000" />
