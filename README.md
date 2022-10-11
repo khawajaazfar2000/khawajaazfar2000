@@ -31,6 +31,6 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khawajaazfar2000&theme=dark&include_all_commits=false&count_private=false&layout=compact"47%" alt="khawajaazfar2000" />-->
 
 
-![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.gif)
 
 ---
