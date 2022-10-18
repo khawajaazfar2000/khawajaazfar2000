@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khawaja Azfar Asif</h1>
-<h3 align="center">I am Third Year student of BS Software Engineering (LGU)</h3>
+<h3 align="center">I am Third Year student of BS Software Engineering (LGU). I aim to solve United Nation Sustainable Development Goal to contribute for better tomorrow. Learning SQA and exploring different fields</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaazfar2000&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="khawajaazfar20000" /> </p>
 
