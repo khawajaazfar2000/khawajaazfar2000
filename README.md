@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **khawajaazfar2000@gmail.com**
+- 📫 How to reach me **khawajaazfar@protonmail.com**
 
 
 
