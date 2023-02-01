@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khawaja Azfar Asif</h1>
-<h3 align="center">I am Third Year student of BS Software Engineering (LGU). I aim to solve United Nation Sustainable Development Goal to contribute for better tomorrow. Learning Machine Learning and exploring different fields</h3>
+<h3 align="center">I am ML Engineer at Confiz. I aim to solve United Nation Sustainable Development Goal to contribute for better tomorrow. Learning Machine Learning and playing with data is daily routine.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaazfar2000&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="khawajaazfar20000" /> </p>
 
  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" />-->
   
+
 <a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<img align='right' src='https://programming-gifs.cyclic.app' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
  <h3>🚀 About Me </h3>
  
