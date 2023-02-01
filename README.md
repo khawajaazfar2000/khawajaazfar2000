@@ -12,7 +12,7 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working **Machine Learning**
 
 - 💬 Ask me about **anything**
 
