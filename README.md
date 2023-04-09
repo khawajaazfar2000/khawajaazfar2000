@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Khawaja Azfar Asif</h1>
-<h3 align="center">I am ML Engineer at Confiz. I aim to solve United Nation Sustainable Development Goal to contribute for better tomorrow. Learning Machine Learning and playing with data is daily routine.</h3>
+<h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
+<h3 align="center">🎓 Soon to be grad with a Bachelor of Science in Software Engineering. (July 2024)
+
+🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.
+
+📚 Nowadays doing Research for my FYP in Medical Image Processing and creating machine learning models.
+
+💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.
+
+🏔 I like to walk in nature and visit Cinema once a month to refresh myself.
+
+💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaazfar2000&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="khawajaazfar20000" /> </p>
 
