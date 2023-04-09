@@ -1,7 +1,6 @@
 <h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
 <h3 >🎓 Soon to be grad with a Bachelor of Science in Software Engineering. (July 2024)
- 
-
+ <br>
 🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.
 
 📚 Nowadays doing Research for my FYP in Medical Image Processing and creating machine learning models.
