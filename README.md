@@ -1,11 +1,11 @@
 <h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
 <h3>
-🎓 Soon to be grad with a Bachelor of Science in Software Engineering. (July 2024)
-🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.
-📚 Nowadays doing Research for my FYP in Medical Image Processing and creating machine learning models.
-💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.
-🏔 I like to walk in nature and visit Cinema once a month to refresh myself.
-💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.
+🎓 Soon to be grad with a Bachelor of Science in Software Engineering. (July 2024)<br>
+🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.<br>
+📚 Nowadays doing Research for my FYP in Medical Image Processing and creating machine learning models.<br>
+💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.<br>
+🏔 I like to walk in nature and visit Cinema once a month to refresh myself.<br>
+💪🏽 Enthusiasm, Patience, Leadership, Learning & Adapting, Future for Planning.<br>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaazfar2000&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="khawajaazfar20000" /> </p>
