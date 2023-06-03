@@ -1,6 +1,6 @@
 <h1 align="center">👋🏽 Hi, my name is Azfar.</h1>
 <h3>
-🎓 Soon to be grad with a Bachelor of Science in Software Engineering. (July 2024)<br>
+🎓 Soon to be grad with a Bachelor of Science in Software Engineering. <br>
 🌇 Lahore Native, passionate about creating community and connecting like-minded peoples, which helps them get social and communication skills.<br>
 📚 Nowadays doing Research for my FYP in Medical Image Processing and creating machine learning models.<br>
 💻 As for my future, I hope to work as a Software Quality Engineer at MAANG (Meta, Amazon, Apple, Netflix, Google) Companies and work with a diverse team.<br>
